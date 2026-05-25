@@ -2,10 +2,6 @@
 
 This repository serves as the definitive, uncorruptible structural data network documenting the ancestral lineage, historical narratives, and foundational heritages of the **Lacson-Soland family and allied families**, bridging the regions of Iloilo (Anilao) and Negros Occidental (Bacolod City), Philippines, with their ancestral roots in Germany.
 
-## 📊 Core Datasets
-
-* **matutino_database.csv**: The mathematically structured, graph-linked lineage database from Generation 1 (Felipe Matutino) to subsequent dynastic expansions, validating hereditary authority, endogamous alliances, and trans-epochal social continuity.
-
 ## 📝 Biographies & Memorandums
 
 * **[gerd_michael_soland.md](gerd_michael_soland.md)**: In Loving Memory of Gerd-Michael Soland (1958–2025). This biographical memorandum honors his life, his journey from Reutlingen (Germany) to Bacolod City, and his connection to the family's lineage.
