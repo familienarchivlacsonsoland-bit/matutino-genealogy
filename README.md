@@ -1,6 +1,6 @@
-# Matutino Genealogy & Ancestral Lineage Archive (Anilao, Iloilo)
+# Lacson-Soland Family Heritage Archive
 
-This repository serves as the definitive, uncorruptible structural data network documenting the ancestral lineage and indigenous nobility (*Principalía por Sangre*) of the **Matutino family** of Anilao, Iloilo, Philippines.
+This repository serves as the definitive, uncorruptible structural data network documenting the ancestral lineage, historical narratives, and foundational heritages of the **Lacson-Soland family and allied families**, bridging the regions of Iloilo (Anilao) and Negros Occidental (Bacolod City), Philippines, with their ancestral roots in Germany.
 
 ## 📊 Core Datasets
 
